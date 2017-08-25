@@ -1662,8 +1662,9 @@
 			height: 7px;
 			opacity: 0.1;
 			position: absolute;
+			margin: 0 10%;
 			top: 1.75em;
-			width: 43%;
+			width: 33%;
 		}
 
 		header.special:before {
@@ -2494,6 +2495,7 @@
 
 	.main-contact {
 		background: white;
+		padding: 2% 0;
 	}
 
 		#main > :last-child {
